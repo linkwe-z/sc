@@ -10,8 +10,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="redission" target="1.5" />
-      <module name="sc" target="1.5" />
+      <module name="redission" target="1.8" />
+      <module name="sc" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
