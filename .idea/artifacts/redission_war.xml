@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="redission:war">
+    <output-path>$PROJECT_DIR$/redission/target</output-path>
+    <root id="archive" name="redission.war">
+      <element id="artifact" artifact-name="redission:war exploded" />
+    </root>
+  </artifact>
+</component>
