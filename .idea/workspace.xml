@@ -7,50 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6efa4f3-f5f0-4fe3-ab26-f6555b00bbff" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-feign-apiconsumer/src/main/java/com/linkwe/controller/DemoFeignController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-feign-apiconsumer/src/main/java/com/linkwe/service/FeignService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-feign-apiconsumer/src/main/java/com/linkwe/service/FeignServiceFallback.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-feign-freeconsumer/src/main/java/com/linkwe/controller/DemoFeignController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-feign-freeconsumer/src/main/java/com/linkwe/entity/UserDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-feign-freeconsumer/src/main/java/com/linkwe/feignService/DemoFeignFallback.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-feign-freeconsumer/src/main/java/com/linkwe/feignService/DemoFeignService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-feign-freeservice/src/main/java/com/linkwe/controller/HelloServiceContorller.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-feign-freeservice/src/main/java/com/linkwe/entity/UserDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-feign-serviceimpl/src/main/java/com/linkwe/service/HelloServiceContorller.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demofeignserviceapi/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demofeignserviceapi/src/main/java/com/linkwe/api/HelloService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demofeignserviceapi/src/main/java/com/linkwe/entity/UserDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eurekaserver/src/main/resources/application-peer1.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eurekaserver/src/main/resources/application-peer2.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inginx/inginx.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inginx/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inginx/src/main/java/com/linkwe/INginxApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inginx/src/main/resources/application.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inginx/src/main/webapp/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springcloudapp/src/main/java/com/linkwe/conf/SwaggerConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/linkwe/ObserDeom.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/linkwe/ProxyDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/linkwe/comparable/Person1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/linkwe/comparable/Person2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/linkwe/thread/Sequence.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/linkwe/thread/SequenceThread.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/linkwe/thread/TestSequence.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/box/Boxing.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/statics/ExA.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/statics/OrderTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/statics/StaticTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/te/TestDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/vector/VectorApp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/websocket/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/websocket/src/main/java/com/linkwe/websockets/ChatAnnotation.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/redission/src/main/java/com/linkwe/service/RedissonAutoConfiguration.java" afterPath="$PROJECT_DIR$/redission/src/main/java/com/linkwe/service/RedissonAutoConfiguration.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sc.iml" afterPath="$PROJECT_DIR$/sc.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -1042,7 +999,7 @@
       <workItem from="1519702661544" duration="25391000" />
       <workItem from="1519876293866" duration="17584000" />
       <workItem from="1520296409382" duration="38740000" />
-      <workItem from="1521096406744" duration="691000" />
+      <workItem from="1521096406744" duration="783000" />
     </task>
     <task id="LOCAL-00001" summary="two">
       <created>1516950324597</created>
@@ -1072,7 +1029,14 @@
       <option name="project" value="LOCAL" />
       <updated>1516961437731</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="多个项目">
+      <created>1521099959574</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1521099959574</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1108,7 +1072,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="109472000" />
+    <option name="totallyTimeSpent" value="109564000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1125,7 +1089,7 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32942554" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942554" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1170,7 +1134,8 @@
     <MESSAGE value="three" />
     <MESSAGE value="four" />
     <MESSAGE value="five" />
-    <option name="LAST_COMMIT_MESSAGE" value="five" />
+    <MESSAGE value="多个项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="多个项目" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1357,6 +1322,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="22" column="43" lean-forward="false" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1364,6 +1332,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="3" column="62" lean-forward="false" selection-start-line="3" selection-start-column="62" selection-end-line="3" selection-end-column="62" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1378,6 +1347,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="3" column="62" lean-forward="false" selection-start-line="3" selection-start-column="62" selection-end-line="3" selection-end-column="62" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1394,6 +1364,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3410">
           <caret line="162" column="51" lean-forward="false" selection-start-line="162" selection-start-column="51" selection-end-line="162" selection-end-column="51" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1408,6 +1379,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="18" column="21" lean-forward="false" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1422,6 +1394,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="6" column="28" lean-forward="false" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <folding>
+            <element signature="e#1036#1037#0" expanded="true" />
+            <element signature="e#1098#1099#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1429,6 +1405,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="9" column="5" lean-forward="false" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="e#139#140#0" expanded="false" />
+            <element signature="e#164#165#0" expanded="false" />
+            <element signature="e#312#313#0" expanded="false" />
+            <element signature="e#369#370#0" expanded="false" />
+            <element signature="e#398#399#0" expanded="false" />
+            <element signature="e#461#462#0" expanded="false" />
+            <element signature="e#487#488#0" expanded="false" />
+            <element signature="e#545#546#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1443,6 +1429,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="282">
           <caret line="32" column="18" lean-forward="false" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+          <folding>
+            <element signature="e#220#221#0" expanded="false" />
+            <element signature="e#266#267#0" expanded="false" />
+            <element signature="e#367#368#0" expanded="false" />
+            <element signature="e#392#393#0" expanded="false" />
+            <element signature="e#599#600#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
