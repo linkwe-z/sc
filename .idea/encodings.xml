@@ -2,6 +2,16 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/configserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-feign-apiconsumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-feign-freeconsumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-feign-freeservice" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-feign-serviceimpl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demofeignserviceapi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eurekaserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inginx" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/redission" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudapp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/websocket" charset="UTF-8" />
   </component>
 </project>

@@ -2,8 +2,18 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/configserver/configserver.iml" filepath="$PROJECT_DIR$/configserver/configserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-feign-apiconsumer/demo-feign-apiconsumer.iml" filepath="$PROJECT_DIR$/demo-feign-apiconsumer/demo-feign-apiconsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-feign-freeconsumer/demo-feign-freeconsumer.iml" filepath="$PROJECT_DIR$/demo-feign-freeconsumer/demo-feign-freeconsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-feign-freeservice/demo-feign-freeservice.iml" filepath="$PROJECT_DIR$/demo-feign-freeservice/demo-feign-freeservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-feign-serviceimpl/demo-feign-serviceimpl.iml" filepath="$PROJECT_DIR$/demo-feign-serviceimpl/demo-feign-serviceimpl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demofeignserviceapi/demofeignserviceapi.iml" filepath="$PROJECT_DIR$/demofeignserviceapi/demofeignserviceapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaserver/eurekaserver.iml" filepath="$PROJECT_DIR$/eurekaserver/eurekaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inginx/inginx.iml" filepath="$PROJECT_DIR$/inginx/inginx.iml" />
       <module fileurl="file://$PROJECT_DIR$/redission/redission.iml" filepath="$PROJECT_DIR$/redission/redission.iml" />
       <module fileurl="file://$PROJECT_DIR$/sc.iml" filepath="$PROJECT_DIR$/sc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudapp/springcloudapp.iml" filepath="$PROJECT_DIR$/springcloudapp/springcloudapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/websocket/websocket.iml" filepath="$PROJECT_DIR$/websocket/websocket.iml" />
     </modules>
   </component>
 </project>

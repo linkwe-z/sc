@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/inginx" />
     <file type="web" url="file://$PROJECT_DIR$/redission" />
+    <file type="web" url="file://$PROJECT_DIR$/websocket" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/eurekaserver/pom.xml" />
+        <option value="$PROJECT_DIR$/configserver/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloudapp/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-feign-freeservice/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-feign-freeconsumer/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-feign-serviceimpl/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-feign-apiconsumer/pom.xml" />
       </list>
     </option>
   </component>
